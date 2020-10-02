@@ -43,9 +43,14 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
+The second part is to create the mount which is a 120mm x 120mm part that is 8mm thick. It has four holes that are 10mm wide and 20mm from each side.
+
 ### Evidence
+[The Mount in Onshape](https://cad.onshape.com/documents/552a75c83439016c914fcabd/w/2f696d226eafe0c0d9923517/e/b7ff6d136de01bbe54c19693)
 
 ### Image
+
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Mount.jpg?raw=true" alt="The Base" width="200">
 
 ### Reflection
 
