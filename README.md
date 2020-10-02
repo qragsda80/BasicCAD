@@ -23,7 +23,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-<img src="images/Mount.jpg" alt="The Base" width="200" height="135">
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.JPG?raw=true" alt="The Base" width="200">
 
 ### Reflection
 
@@ -50,7 +50,7 @@ The second part is to create the mount which is a 120mm x 120mm part that is 8mm
 
 ### Image
 
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Mount.jpg?raw=true" alt="The Base" width="200">
+<img src="images/Mount.jpg" alt="The Base" width="200">
 
 ### Reflection
 
