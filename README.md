@@ -54,12 +54,16 @@ The second part is to create the mount which is a 120mm x 120mm part that is 8mm
 
 ### Reflection
 
+This was my second Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/BWDk4BZFXDQ)
+
 ---
 
 
 ## Fork
 
 ### Description
+
+I made a circle that was 80mm in diameter and 8mm thick. Then, I made a rectangle that was 15 x 5mm and 75mm thick. Then, we had to create two circles. On was 15mm and the other was 20mm and 60mm tall. I put a 10mm hole in the rectangle and reflected it over the axis. 
 
 ### Evidence
 
@@ -78,6 +82,8 @@ The second part is to create the mount which is a 120mm x 120mm part that is 8mm
 ## Tire
 
 ### Description
+
+I made a trapezoid that was 20mm on the bottom and then the sides were 10 degress from vertical. The botom was 40mm from the x-axis and the top was 55mm from the x-axis. Then I rotated it around the line and put fillets on the corners to round it off.
 
 ### Evidence
 
