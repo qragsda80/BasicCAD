@@ -54,7 +54,7 @@ The second part is to create the mount which is a 120mm x 120mm part that is 8mm
 
 ### Reflection
 
-This was my second Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/BWDk4BZFXDQ)
+This was my second Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/BWDk4BZFXDQ) I struggled with the extrusion because I did my mount a little different than the instruction. I used the same document as my base and just added on to it. I tried extruding the sketch, but I ended up only extruding the walls and not the middle of my mount. I figured it out by retracing my steps and found out what I did wrong. I am done with 2 parts of ths assignment. I am excited to move on to the next part.
 
 ---
 
@@ -76,6 +76,8 @@ I made a circle that was 80mm in diameter and 8mm thick. Then, I made a rectangl
 
 ### Reflection
 
+This was my second Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/wQlTfOw8rYQ) I struggled making the holes in the tongues of the fork, but I ended up just deleting the sketch of the hole and doing it again. It work the second time I did it and I am glad that I tried again before asking for help. I like working through the problem by myself. I am ready to start the next part.
+
 ---
 
 
@@ -94,6 +96,8 @@ I made a trapezoid that was 20mm on the bottom and then the sides were 10 degres
 <img src="images/Tire.jpg" alt="The Base" width="100">
 
 ### Reflection
+
+This was my second Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/ReEGioIYSus) I am close to being done with the caster! I had problems getting the degrees right on the trapezoid, but I figured it out by watching the video again and retracing my steps. I enjoyed making this part. It didn't take very long at all. I am excited to start the last two parts for this assinment.
 
 ---
 
