@@ -81,6 +81,8 @@ The second part is to create the mount which is a 120mm x 120mm part that is 8mm
 
 ### Image
 
+<img src="images/Tire.jpg" alt="The Base" width="100">
+
 ### Reflection
 
 ---
