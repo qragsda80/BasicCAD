@@ -76,7 +76,7 @@ I made a circle that was 80mm in diameter and 8mm thick. Then, I made a rectangl
 
 ### Reflection
 
-This was my second Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/wQlTfOw8rYQ) I struggled making the holes in the tongues of the fork, but I ended up just deleting the sketch of the hole and doing it again. It work the second time I did it and I am glad that I tried again before asking for help. I like working through the problem by myself. I am ready to start the next part.
+This was my third Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/wQlTfOw8rYQ) I struggled making the holes in the tongues of the fork, but I ended up just deleting the sketch of the hole and doing it again. It work the second time I did it and I am glad that I tried again before asking for help. I like working through the problem by myself. I am ready to start the next part.
 
 ---
 
@@ -97,7 +97,7 @@ I made a trapezoid that was 20mm on the bottom and then the sides were 10 degres
 
 ### Reflection
 
-This was my second Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/ReEGioIYSus) I am close to being done with the caster! I had problems getting the degrees right on the trapezoid, but I figured it out by watching the video again and retracing my steps. I enjoyed making this part. It didn't take very long at all. I am excited to start the last two parts for this assinment.
+This was my fourth Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/ReEGioIYSus) I am close to being done with the caster! I had problems getting the degrees right on the trapezoid, but I figured it out by watching the video again and retracing my steps. I enjoyed making this part. It didn't take very long at all. I am excited to start the last two parts for this assinment.
 
 ---
 
@@ -106,11 +106,19 @@ This was my second Onshape part and [following along with Dr. Shields made it su
 
 ### Description
 
+I made three corner rectangles that made an "I" shape. It is 20mm wide. I demensioned each rectangle and made it symmetric and then rotated it around the axis. Then, I made a "V" shape and did a extrude remove and filleted the edges of one spoke hole. Finally, I made a circular pattern of five spoke holes on the wheel.
+
 ### Evidence
+
+[The Wheel in Onshape](https://cad.onshape.com/documents/deecaecaea7a37ff59c23347/w/60437cceb0d772b11ef00f0c/e/26ab35dfdd7e5aea8aa16f03)
 
 ### Image
 
+<img src="images/wheel.jpg" alt="The Wheel" width="100">
+
 ### Reflection
+
+This was my fifth Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/RKeALFyqSGw) This was the hardest part I have had to make so far. I struggled making the wheel and tire in the same document, but ended up going back and making the wheel in the same document. I still don't know how to make them two different colors, but I am going to try to figure that out soon. I am excited to start the next part.
 
 ---
 
