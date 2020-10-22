@@ -127,7 +127,7 @@ This was my fifth Onshape part and [following along with Dr. Shields made it sup
 
 ### Description
 
-I made two circles, extruded them 60mm, symmetrically, and used the "use" button to shave off some space on the top of the cylinder on each side. That was my axle. To make the collar, I made two more circles, extruded them on the axle 10mm, and used the "use" tool again to make a hole in the top of it.
+I made two circles, extruded them 60mm, symmetrically, and used the "use" button to shave off some space on the top of the cylinder on each side. That was my axle. To make the collar, I made two more circles, extruded them on the axle 10mm, and used the "use" tool again to make a hole in the top of it. To make my bearing, I just went into my "wheel" document, used the "use" tool, clicked the two circles on the side of the wheel, and extruded it 5mm.
 
 ### Evidence
 
