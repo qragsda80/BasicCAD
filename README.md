@@ -127,6 +127,8 @@ This was my fifth Onshape part and [following along with Dr. Shields made it sup
 
 ### Description
 
+I made two circles, extruded them 60mm, symmetrically, and used the "use" button to shave off some space on the top of the cylinder on each side. That was my axle. To make the collar, I made two more circles, extruded them on the axle 10mm, and used the "use" tool again to make a hole in the top of it.
+
 ### Evidence
 
 [The Axle, Collar, and Bearing in Onshape](https://cad.onshape.com/documents/58cb2d9216043d0a530e6867/w/e01df4a00b5bd16c04ad6b0f/e/49c7f7fac6fa8d039af7529c)
@@ -136,5 +138,7 @@ This was my fifth Onshape part and [following along with Dr. Shields made it sup
 <img src="images/axle.jpg" alt="The Axle, and Collar" width="100">
 
 ### Reflection
+
+This was my sixth Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/2r7YqGuF1vY) These parts were pretty quick to make. I struggled with finding out how to flip the direction of my extrusions, but I went back and watched Dr. Shields do it again and I figured it out. I am having a lot of fun with making these parts and I wish I had more time for engineering. My schedule is packed!
 
 ---
