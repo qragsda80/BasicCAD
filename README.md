@@ -129,7 +129,11 @@ This was my fifth Onshape part and [following along with Dr. Shields made it sup
 
 ### Evidence
 
+[The Axle, Collar, and Bearing in Onshape](https://cad.onshape.com/documents/58cb2d9216043d0a530e6867/w/e01df4a00b5bd16c04ad6b0f/e/49c7f7fac6fa8d039af7529c)
+
 ### Image
+
+<img src="images/axle.jpg" alt="The Axle, and Collar" width="100">
 
 ### Reflection
 
