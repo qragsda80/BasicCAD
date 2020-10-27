@@ -142,3 +142,22 @@ I made two circles, extruded them 60mm, symmetrically, and used the "use" button
 This was my sixth Onshape part and [following along with Dr. Shields made it super easy.](https://youtu.be/2r7YqGuF1vY) These parts were pretty quick to make. I struggled with finding out how to flip the direction of my extrusions, but I went back and watched Dr. Shields do it again and I figured it out. I am having a lot of fun with making these parts and I wish I had more time for engineering. My schedule is packed!
 
 ---
+
+## Sub-Assembly
+
+### Description
+
+
+
+### Evidence
+[The Sub-Assembly in Onshape]()
+
+### Image
+
+<img src="images/SubAssembly.jpg" alt="The Base" width="200">
+
+### Reflection
+
+
+
+---
