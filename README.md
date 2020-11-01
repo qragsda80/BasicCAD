@@ -147,7 +147,7 @@ This was my sixth Onshape part and [following along with Dr. Shields made it sup
 
 ### Description
 
-
+I used 
 
 ### Evidence
 [The Sub-Assembly in Onshape]()
@@ -155,6 +155,25 @@ This was my sixth Onshape part and [following along with Dr. Shields made it sup
 ### Image
 
 <img src="images/SubAssembly.jpg" alt="The Base" width="200">
+
+### Reflection
+
+
+
+---
+
+## Final Assembly
+
+### Description
+
+
+
+### Evidence
+[The Final Assembly in Onshape]()
+
+### Image
+
+<img src="images/FinalAssembly.jpg" alt="The Base" width="200">
 
 ### Reflection
 
