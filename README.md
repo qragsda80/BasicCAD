@@ -166,7 +166,7 @@ This was my first Onshape assembly and [following along with Dr. Shields made it
 
 ### Description
 
-I used 
+I used the sub-assembly, the base, the mount, the fork, the big bearing, and the collars in this assembly. I used a fasten mate for the base and the mount. I used a revolute mate for the mount and the big bearing. I used another revolute mate for the fork and the bearing. I used another revolute mate for the sub-assembly and the fork. The last mates I made were revolute mates for the collar and the axle and then I made sure the flat part of the axle was lined up with the hole in the collars with a symmetric mate.
 
 ### Evidence
 [The Final Assembly in Onshape](https://cad.onshape.com/documents/5f7b734432edef0d6cecb3e5/w/a64f02d2e3f42fe2ddb774fb/e/c1ca0ba5ac9879dd651e6a8e)
@@ -177,6 +177,6 @@ I used
 
 ### Reflection
 
-
+This was my second Onshape assembly and [following along with Dr. Shields made it super easy.](https://youtu.be/orcp-asikM4) I am really happy that I finished the caster! It was really fun and in this last assebly, I used all of the parts I've made in Onshape so far. It was really fun making this caster and I can't wait to get started on my next assignment. 
 
 ---
