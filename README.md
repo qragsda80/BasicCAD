@@ -147,7 +147,7 @@ This was my sixth Onshape part and [following along with Dr. Shields made it sup
 
 ### Description
 
-I used 
+I finally got to assemble the parts! I used the wheel, tire, bearings, and axle in this assembly. I used a fasten mate for the tire and wheel, more fasten mates for the two bearings, and a revolute mate for the axle. 
 
 ### Evidence
 [The Sub-Assembly in Onshape]()
@@ -158,7 +158,7 @@ I used
 
 ### Reflection
 
-
+This was my first Onshape assembly and [following along with Dr. Shields made it super easy.](https://youtu.be/R4PDBd8H5h8) Learning how to use the mates were super fun and interesting. This brings it all together and I now know the basics of making items in Onshape. I struggled with the revolute mates and finding where to put them, but I figured it out by zooming in close to the parts and finding the exact points and faces I need.
 
 ---
 
@@ -166,7 +166,7 @@ I used
 
 ### Description
 
-
+I used 
 
 ### Evidence
 [The Final Assembly in Onshape]()
