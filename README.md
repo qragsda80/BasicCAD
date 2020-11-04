@@ -150,7 +150,7 @@ This was my sixth Onshape part and [following along with Dr. Shields made it sup
 I finally got to assemble the parts! I used the wheel, tire, bearings, and axle in this assembly. I used a fasten mate for the tire and wheel, more fasten mates for the two bearings, and a revolute mate for the axle. 
 
 ### Evidence
-[The Sub-Assembly in Onshape]()
+[The Sub-Assembly in Onshape](https://cad.onshape.com/documents/5f7b734432edef0d6cecb3e5/w/a64f02d2e3f42fe2ddb774fb/e/66fff543fe3029ddaed88fa9)
 
 ### Image
 
@@ -169,7 +169,7 @@ This was my first Onshape assembly and [following along with Dr. Shields made it
 I used 
 
 ### Evidence
-[The Final Assembly in Onshape]()
+[The Final Assembly in Onshape](https://cad.onshape.com/documents/5f7b734432edef0d6cecb3e5/w/a64f02d2e3f42fe2ddb774fb/e/c1ca0ba5ac9879dd651e6a8e)
 
 ### Image
 
