@@ -154,7 +154,7 @@ I finally got to assemble the parts! I used the wheel, tire, bearings, and axle 
 
 ### Image
 
-<img src="images/SubAssembly.jpg" alt="The Base" width="200">
+<img src="images/Sub-assembly.jpg" alt="The Sub-Assembly" width="200">
 
 ### Reflection
 
