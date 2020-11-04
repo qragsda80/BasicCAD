@@ -23,7 +23,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-<img src="images/Base.jpg" alt="The Base" width="200">
+<img src="images/Base.jpg" alt="The Base" width="100">
 
 ### Reflection
 
@@ -50,7 +50,7 @@ The second part is to create the mount which is a 120mm x 120mm part that is 8mm
 
 ### Image
 
-<img src="images/Mount.jpg" alt="The Base" width="200">
+<img src="images/Mount.jpg" alt="The Base" width="100">
 
 ### Reflection
 
@@ -154,7 +154,7 @@ I finally got to assemble the parts! I used the wheel, tire, bearings, and axle 
 
 ### Image
 
-<img src="images/Sub-assembly.jpg" alt="The Sub-Assembly" width="200">
+<img src="images/Sub-assembly.jpg" alt="The Sub-Assembly" width="100">
 
 ### Reflection
 
@@ -173,7 +173,7 @@ I used
 
 ### Image
 
-<img src="images/FinalAssembly.jpg" alt="The Base" width="200">
+<img src="images/Finalassembly.jpg" alt="Final Assembly" width="100">
 
 ### Reflection
 
