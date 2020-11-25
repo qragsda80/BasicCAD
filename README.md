@@ -110,7 +110,7 @@ I made three corner rectangles that made an "I" shape. It is 20mm wide. I demens
 
 ### Evidence
 
-[The Wheel in Onshape](https://cad.onshape.com/documents/deecaecaea7a37ff59c23347/w/60437cceb0d772b11ef00f0c/e/26ab35dfdd7e5aea8aa16f03)
+[The Wheel in Onshape](https://cad.onshape.com/documents/49f447a570d33e950c38317a/w/675196779d66fe1c86ad6099/e/e14e9aae43cdfd0ab577a971)
 
 ### Image
 
@@ -192,6 +192,6 @@ This was my second Onshape assembly and [following along with Dr. Shields made i
 
 ### Image
 
-<img src="images/Finalassembly.jpg" alt="Final Assembly" width="100">
+<img src="images/Frame.jpg" alt="Dorothy Dowel's Frame" width="100">
 
 ### Reflection
