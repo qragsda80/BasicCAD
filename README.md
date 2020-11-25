@@ -180,3 +180,18 @@ I used the sub-assembly, the base, the mount, the fork, the big bearing, and the
 This was my second Onshape assembly and [following along with Dr. Shields made it super easy.](https://youtu.be/orcp-asikM4) I am really happy that I finished the caster! It was really fun and in this last assebly, I used all of the parts I've made in Onshape so far. It was really fun making this caster and I can't wait to get started on my next assignment. 
 
 ---
+
+## Final Assembly
+
+### Description
+
+
+
+### Evidence
+[The Frame in Onshape]()
+
+### Image
+
+<img src="images/Finalassembly.jpg" alt="Final Assembly" width="100">
+
+### Reflection
