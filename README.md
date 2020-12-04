@@ -185,7 +185,7 @@ This was my second Onshape assembly and [following along with Dr. Shields made i
 
 ### Description
 
-
+First, I made the pins. 
 
 ### Evidence
 [The Frame in Onshape]()
