@@ -184,14 +184,15 @@ This was my second Onshape assembly and [following along with Dr. Shields made i
 ## Dorothy Dowel's Pins and Picture Frame
 
 ### Description
-
 First, I made the pins. It was 6.35 mm circle and I extruded it 1 inch. I used the chamfer tool to create a 1 mm chamfer on each end of the pin. Then, I used the new configuration tool to make 16 different dimensions of the one pin. The dimensions for length were 1/2, 1, 1 1/2, or 2 inches. The dimensions for diameter were 1/4, 3/8, 1/2, or 5/8 of an inch. I made frames pieces that had configurations of 1 ft and .75 ft that have a 45 degree angle and that are 19.05 mm thick. I placed holes thaat were 1/4 of an inch thick that were placed 6mm from each side on each angled side. I assembled all of the pieces in the assembly with fastened mates.
 
 ### Evidence
-[The Frame in Onshape]()
+[The Frame in Onshape](https://cvilleschools.onshape.com/documents/45e505f9cdaf051aeb5d18d0/w/93f7a71320a594f7c167d520/e/7686c0af9c43badae724b5ce)
 
 ### Image
 
 <img src="images/Frame.jpg" alt="Dorothy Dowel's Frame" width="100">
 
 ### Reflection
+
+This was a fun assignment and [following along with Mr. Dierolf made it super easy.](https://cvilleschools.instructure.com/courses/31056/assignments/289067?module_item_id=918833) I had a lot of fun creating this assignment. I learned how to make configurations in Onshape and this assignment was more fun because we had a bit more freedom than some of the other assignments so far.
