@@ -11,6 +11,9 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Sub-Assembly](#Sub-Assembly)
+* [Final Assembly](#Final Assmebly)
+* [Dorothy Dowel's Pins and Picture Frame](Dorothy Dowel's Pins and Picture Frame)
 
 ## Base
 
